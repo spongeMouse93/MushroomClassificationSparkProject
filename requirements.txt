@@ -1,0 +1,6 @@
+kagglehub
+pyspark
+jupyter
+findspark
+notebook
+matplotlib
